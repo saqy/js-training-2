@@ -31,3 +31,42 @@ following output.
 ..333<br />
 .4444<br />
 55555<br />
+
+## Question 5 
+
+Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.
+
+Example
+
+For inputArray = [3, 6, -2, -5, 7, 3], the output should be
+adjacentElementsProduct(inputArray) = 21.
+
+7 and 3 produce the largest product.
+
+## Question 6 
+Below we will define an n-interesting polygon. Your task is to find the area of a polygon for a given n.
+
+
+Example
+n= 1, output = 1;
+For n = 2, the output should be
+output= 5;
+For n = 3, the output should be
+output= 13.
+For n = 4, the output should be
+output = 25.
+
+
+## Question 7 
+
+Given the string, check if it is a palindrome.
+
+Example
+
+For inputString = "aabaa", the output should be
+ = true;
+For inputString = "abac", the output should be
+ = false;
+For inputString = "a", the output should be
+ = true.
+
