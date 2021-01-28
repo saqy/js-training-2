@@ -147,3 +147,49 @@ Print the following  lines, each to decimals: <br />
 proportion of positive values <br />
 proportion of negative values <br />
 proportion of zeros <br />
+
+## Question 11
+
+Given an array of integers, calculate the ratios of its elements that are positive, negative, and zero. Print the decimal value of each fraction on a new line with  places after the decimal.
+
+
+## Sample Input <br />
+-4 3 -9 0 4 1        <br /> 
+## Sample Output <br />
+
+0.500000 <br />
+0.333333 <br />
+0.166667 <br />
+# Explanation <br />
+
+There are 3  positive numbers, 2 negative numbers, and 1 zero in the array. <br />
+The proportions of occurrence are positive: 3/6 = 0.500000, negative: 2/6= 0.333333, 1/6= 0.166667 and zeros <br />
+
+
+
+
+Output Format <br />
+
+Print the following  lines, each to decimals: <br />
+
+proportion of positive values <br />
+proportion of negative values <br />
+proportion of zeros <br />
+
+## Question 12 
+
+Given the list of items and their actual prices and sold prices. Find the number of items in sold products which has wrong prices
+
+Example Input
+
+Products = ['eggs', 'milk', 'cheese'];  <br />
+productPrices = [2.89, 3.29, 5.79];  <br />
+productSold = ['eggs', 'eggs', 'cheese', 'milk']  <br />
+soldPrice = [2.89, 2.99, 5.97, 3.29];  <br />
+
+
+Example Output
+Here   <br />
+eggs has 2.99 price which is worng 
+milk has 5.97 price which is worng 
+So we will return 2 in this example. 
