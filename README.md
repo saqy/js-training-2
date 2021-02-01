@@ -196,3 +196,6 @@ So we will return 2 in this example.
 
 ## Question 13 
 https://www.hackerrank.com/challenges/magic-square-forming/problem
+
+## Question 14 
+https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRoseRequirements.txt
