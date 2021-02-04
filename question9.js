@@ -13,6 +13,7 @@ fruitBasket.forEach((value) => {
 console.log(count);
 //---------------forEach----end-------------time-15.554ms------------
 
+
 //---------------for-of----------------------------------
 // for (let value of fruitBasket){
 //         if (count.hasOwnProperty(value)){
