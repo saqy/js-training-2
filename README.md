@@ -210,3 +210,8 @@ https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRose
  it rejects with that same input </br>
 
 // call the function delayedUpperCase
+
+## Question 16
+ Download .. </br>
+ Process .. </br>
+ Execute .. </br>
