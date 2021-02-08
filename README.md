@@ -215,3 +215,4 @@ https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRose
  Download .. </br>
  Process .. </br>
  Execute .. </br>
+ Solve using callbacks, promises, async/await 
