@@ -1,3 +1,4 @@
+console.time('reduce');
 const sampleMatrix = [[[8,1,6],[3,5,7],[4,9,2]],
                       [[6,1,8],[7,5,3],[2,9,4]],
                       [[4,9,2],[7,5,3],[8,1,6]],
@@ -25,6 +26,7 @@ const minCost = cost.reduce((sum,b)=>{
         sum=b;
     return sum;
     });
-const magicMatrix = sampleMatrix[cost.indexOf(minCost)];
-console.log(minCost);
-console.log(magicMatrix);
+    const magicMatrix = sampleMatrix[cost.indexOf(minCost)];
+    console.log('minimum cost:',minCost);
+    console.log(magicMatrix);
+    console.timeEnd('reduce');
