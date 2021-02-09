@@ -1,4 +1,4 @@
-//Problem 13
+//Problem 13 making magic matrix
 const matrix = [
     //   [6,2,4],
    //   [1,5,9],
