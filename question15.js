@@ -1,21 +1,20 @@
 
-
-
 delayedUpperCase = (input, n) => {
     return new Promise((resolve, reject) => {
         setTimeout(()=>{
-            if(typeof input==='string'){
-                resolve();
-                console.log(input.toUpperCase());
+            if(typeof(input)==='string'){
+                resolve(input.toUpperCase());
             } else {
-                reject(input);
+                reject('Error: '+input);
             }
-        },n)
-    })
+        },n);
+    });
 }
 
 printDelayed = () => {
-    delayedUpperCase("Hannan", 200).catch((input)=> {
+    delayedUpperCase("Hannan", 200).then((a)=>{
+        console.log(a);
+    }).catch((input)=> {
         console.log(input);
     })
 };
