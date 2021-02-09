@@ -13,5 +13,5 @@ console.log('Problem 6 solution',(n*n)+(n-1)*(n-1))  // formula for calculating 
 // console.log(p);                         // output => 13
 // }                                       //
 // else{                                   // if n=1 
-//   console.log('Problem 6 solution',p);  // output => 1
+//   console.log('Problem 6 solution',p);  // output => 1 
 // }                                       //
