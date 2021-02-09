@@ -114,6 +114,6 @@ car.sayHi(); // Hello from Ferrari
 bird.sayHi = car.sayHi;
 bird.sayHi(); // Hello from Tweety
 
-// For bound methods, 'this' doesn't depend on the caller
+// For bound methods, 'this' doesn't depend on the caller 
 bird.sayBye = car.sayBye;
 bird.sayBye();  // Bye from Ferrari
