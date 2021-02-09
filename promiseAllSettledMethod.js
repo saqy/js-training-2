@@ -1,4 +1,4 @@
-// wait until all prmomises have settled(each may resolve or reject).
+// wait until all promises have settled(each may resolve or reject).
 // returning an array with objects(each object for each process with two properties)
 // status(fulfilled or rejected) and value(value inside resolve method or rejected method)
 processing = () =>{
