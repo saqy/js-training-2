@@ -1,4 +1,4 @@
-// all prmises should be resolved or for any to be rejected.
+// all promises should be resolved or for any to be rejected.
 processing = () =>{
     return new Promise((resolved,rejected)=>{
         setTimeout(()=>{
