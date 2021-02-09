@@ -1,4 +1,4 @@
-// wait as soon as one of promise fulfullid.
+// wait as soon as one of promise fulfullid. 
 processing = () =>{
     return new Promise((resolved,rejected)=>{
         setTimeout(()=>{
