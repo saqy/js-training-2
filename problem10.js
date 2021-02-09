@@ -14,5 +14,5 @@ for(let i=0;i<two2D.length;i++){            // for loop
 }                                           //
 let diff = Math.abs(leftDiagnol-rightDiagnol); // finding absolute differnce between left and right diagnols
 console.log('Problem 10 solution:',         // output => 15
-'Absolute Diagnols Difference:',             //
+'Absolute Diagnols Difference:',            //
 diff);                                      //
