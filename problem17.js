@@ -1,3 +1,4 @@
+//Problem 17:- Create three independent promises which will return some string like "promise 1", "promise 2", "promise 3" and store the result in one Array.
 let error = false;
 promiseFirst = () =>{
     return new Promise((resolved,rejected)=>{
