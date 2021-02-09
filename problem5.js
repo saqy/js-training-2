@@ -20,4 +20,4 @@ console.log('Problem 5 solution',product); // output => 21
 //         el=value;                       // if not eqaul put value to el
 //     }                                   //
 // }                                       //
-//console.log('Problem 5 solution',product); // output => 21
+//console.log('Problem 5 solution',product); // output => 21 
