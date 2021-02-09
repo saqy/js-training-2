@@ -216,3 +216,6 @@ https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/master/GildedRose
  Process .. </br>
  Execute .. </br>
  Solve using callbacks, promises, async/await 
+
+ ## Question 17 
+ Create three independent promises which will return some string like "promise 1", "promise 2", "promise 3" and store the result in one Array. 
