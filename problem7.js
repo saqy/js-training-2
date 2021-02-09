@@ -13,4 +13,4 @@ for(let i=0;i<strLength;i++){              // for loop
          break;                            // will terminate for loop 
      }                                     //
 }                                          //
-console.log('Problem 7 solution',strResult); // Output => true
+console.log('Problem 7 solution',strResult); // Output => true 
