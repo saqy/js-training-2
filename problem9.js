@@ -29,3 +29,4 @@ const fruitCount = fruitBasket.reduce((obj,fruit)=>{
 },{});
 console.timeEnd('reduce');
 console.log('Problem 9 solution:',fruitCount);
+
