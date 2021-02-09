@@ -1,3 +1,6 @@
+//Problem 16:- write a program in which we have 3 functions first execute processing function then downloading function and finally executing function
+//Using Promise
+
 processing = () =>{
     return new Promise((resolved,rejected)=>{
         setTimeout(()=>{
