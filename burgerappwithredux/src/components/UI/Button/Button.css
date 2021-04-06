@@ -1,0 +1,21 @@
+.Button:first-of-type {
+    margin-left: 0;
+    padding-left: 0;
+    margin: 5px;
+}
+
+.Success {
+    color: #5C9210;
+}
+
+.Danger {
+    color: #944317;
+}
+
+.Button:disabled {
+    color: rgb(192, 192, 192);
+    /* background-color: lightcoral; */
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 15px;
+}

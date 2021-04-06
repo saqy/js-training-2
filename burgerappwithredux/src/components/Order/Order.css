@@ -1,0 +1,16 @@
+.Order {
+    width: 100%;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 10px;
+    margin: 10px none;
+    box-sizing: border-box;
+    
+}
+
+.Order span {
+    text-transform: capitalize;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px 10px;
+}

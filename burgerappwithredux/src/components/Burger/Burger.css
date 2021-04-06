@@ -1,0 +1,14 @@
+.Burger {
+    line-height: 0;
+    text-align: center;
+    /* margin: 30px 0; */
+    height: 300px;
+    overflow: auto;
+    display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
+.Burger img {
+    max-width: 200px;
+}
